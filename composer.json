@@ -2,6 +2,7 @@
     "name": "wasddsaw/pilihan-raya",
     "description": "A library for list of Malaysian electoral districts",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "ayum9497",
