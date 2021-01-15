@@ -1,0 +1,34 @@
+{
+    "constituencies": {
+        "Malaysia": {
+            "Perlis": {
+                "Padang Besar": {
+                    "code": "P.001",
+                    "name": "Padang Besar",
+                    "duns": [
+                        {
+                            "code": "N.01",
+                            "name": "Titi Tinggi"
+                        },
+                        {
+                            "code": "N.02",
+                            "name": "Beseri"
+                        },
+                        {
+                            "code" : "N.03",
+                            "name" : "Chuping"
+                        },
+                        {
+                            "code" : "N.04",
+                            "name" : "Mata Ayer"
+                        },
+                        {
+                            "code" : "N.05",
+                            "name" : "Santan"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}
