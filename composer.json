@@ -1,0 +1,17 @@
+{
+    "name": "wasddsaw/pilihan-raya",
+    "description": "A library for list of Malaysian electoral districts",
+    "type": "library",
+    "authors": [
+        {
+            "name": "ayum9497",
+            "email": "ayum9422@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "PilihanRaya\\": "src/"
+        }
+    },
+    "require": {}
+}
